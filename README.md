@@ -25,6 +25,8 @@ TechDiscuss is a technical discussion forum application that allows users to pos
 
 ## Video
 
+https://github.com/user-attachments/assets/c60b69f4-698d-4472-bc7f-020b1005f3ee
+
 ## Photos
 - HomePage
 
